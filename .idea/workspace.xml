@@ -102,6 +102,9 @@
       <workItem from="1726145770710" duration="4237000" />
       <workItem from="1726491769093" duration="4169000" />
       <workItem from="1726663984222" duration="4542000" />
+      <workItem from="1726836869778" duration="3841000" />
+      <workItem from="1727182491785" duration="4512000" />
+      <workItem from="1727356380770" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -131,6 +134,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="second  commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/feedthedragon$main.coverage" NAME="main Coverage Results" MODIFIED="1726668823592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/feedthedragon$main.coverage" NAME="main Coverage Results" MODIFIED="1727356719513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
