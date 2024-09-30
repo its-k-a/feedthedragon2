@@ -101,6 +101,7 @@ while running:
     if player_lives == 0:
         display_surface.blit(gameover_text, gameover_rect)
         display_surface.blit(continue_text, continue_rect)
+        pygame.display.update()
 
         pygame.mixer.music.stop()
         is_paused = True
